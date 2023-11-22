@@ -22,4 +22,14 @@ public class MainActivity extends AppCompatActivity {
         Intent i= new Intent(MainActivity.this, Uyg2.class);
         startActivity(i);
     }
+
+    public void Uyg3goster(View view) {
+        Intent i= new Intent(MainActivity.this, Uyg2.class);
+        startActivity(i);
+    }
+
+    public void Uyg4goster(View view) {
+        Intent i= new Intent(MainActivity.this, uygulama4.class);
+        startActivity(i);
+    }
 }
