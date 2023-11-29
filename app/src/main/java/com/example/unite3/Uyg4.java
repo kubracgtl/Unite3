@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.provider.Settings;
 
-public class uygulama4 extends AppCompatActivity {
+public class Uyg4 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

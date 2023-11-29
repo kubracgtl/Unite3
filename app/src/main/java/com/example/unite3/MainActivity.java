@@ -29,7 +29,24 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Uyg4goster(View view) {
-        Intent i= new Intent(MainActivity.this, uygulama4.class);
+        Intent i = new Intent(MainActivity.this, Uyg4.class);
         startActivity(i);
     }
+
+     public void Uyg6goster(View view) {
+         Intent i = new Intent(MainActivity.this, Uyg6.class);
+         startActivity(i);
+     }
+         public void Uyg7goster(View view) {
+             Intent i= new Intent(MainActivity.this, Uyg7.class);
+             startActivity(i);
+
+
+    }
+
+    public void Uyg8goster(View view) {
+        Intent i = new Intent(MainActivity.this, Uyg8.class);
+        startActivity(i);
+    }
+
 }
